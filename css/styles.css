@@ -13,6 +13,11 @@ h1, h2, h3, h4, p {
   text-align: center;
 }
 
+ul {
+  text-align: center;
+  list-style-position: inside;
+}
+
 .link {
   text-align: center;
   font-size: 23px;
@@ -25,10 +30,6 @@ body {
 /*SECTION1*/
 .section1 {
   background-color: #eae5e2;
-}
-
-.section1 .col-sm-4 {
-
 }
 
 .section1 .col-sm-8 h1 {
@@ -45,7 +46,6 @@ body {
 .section2 strong {
   color: white;
 }
-
 
 /*SECTION3*/
 .section3 {
