@@ -6,3 +6,17 @@ html {
 strong {
   color: red;
 }
+
+.row .col-sm-8 h1 {
+  vertical-align: center;
+  text-align: center;
+  color: #264f5d;
+}
+
+h2 {
+  text-align: center;
+}
+
+.indent .col-sm-4 p {
+  margin-left: 10px;
+}
