@@ -18,6 +18,10 @@ h1, h2, h3, h4, p {
   font-size: 23px;
 }
 
+body {
+  padding-top: 50px;
+}
+
 /*SECTION1*/
 .section1 {
   background-color: #eae5e2;
