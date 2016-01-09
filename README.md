@@ -14,6 +14,10 @@ Clone this repository
 
 Open html or css files in a text editor
 
+##Link to Github Pages
+
+tolentino3575.github.io/tolentino3575.github.io
+
 ##Legal
 
 Copyright (c) 2016 Erik Tolentino
